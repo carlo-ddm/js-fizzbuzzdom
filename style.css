@@ -1,0 +1,18 @@
+body {
+  background-color: #0B2D3B;
+}
+
+.white {
+  color: white;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  height: 150px;
+  border: 1px solid black;
+  margin: 0 10px 10px 10px
+ ;
+}
