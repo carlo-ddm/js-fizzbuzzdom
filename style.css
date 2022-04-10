@@ -17,3 +17,19 @@ body {
   margin: 0 10px 10px 10px
  ;
 }
+
+.blue {
+  background-color: #1676A2;
+}
+
+.fizz {
+  background-color: #1ED190;
+}
+
+.buzz {
+  background-color: #FEC854;
+}
+
+.fizz-buzz {
+  background-color: #EA2C5C;
+}
