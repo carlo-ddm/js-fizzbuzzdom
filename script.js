@@ -20,7 +20,7 @@ for (let i = 1; i <= limit; i++) {
     box.innerHTML = 'Fizz';
     console.log(box);
   } else if (!(i % 5)){
-    box.classList.add('Buzz');
+    box.classList.add('buzz');
     box.innerHTML = 'Buzz';
     console.log(box);
   }
